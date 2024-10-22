@@ -1,4 +1,2 @@
 
 # 👨‍💻Tay
-
-## Always Learning...💻
