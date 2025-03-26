@@ -13,25 +13,6 @@
 - I write on my [tech blog](https://17tay.pages.dev) about my projects, CTFs, tools and learning process.
 - Mostly coding in **Python**, but I like to experiment with everything.
 
----
-
-### 📌 Featured Projects
-
-🔹 **[Telegram-based C2](https://17tay.pages.dev/posts/c2_over_tg/)**  
-Custom Command & Control system using Telegram as a secure communication channel. Built from scratch with:
-- Telegram group-based control
-- Multiple simultaneous clients
-- Shell command execution, screenshot capturing, AES encryption and more
-
-🔹 **Educational malware dev**  
-Creating custom ransomware and stealers for learning purposes.  
-Studying how they work, how to detect them and how to stop them.
-
-🔹 **Tech blog**  
-I document everything I build or learn — from CTF writeups to tool development and reverse engineering.
-
----
-
 ### 🧠 About me
 - 🧩 I love understanding how things work internally.
 - 🔎 Always breaking, analyzing and rebuilding.
