@@ -10,7 +10,7 @@
 ### 💻 What I do
 - I develop offensive tools as a hobby: **C2s**, **malware**, **pentesting scripts**...
 - I'm active on **Hack The Box**.
-- I write on my [tech blog](https://17tay.pages.dev) about my projects, CTFs, tools and learning process.
+- I write on my [tech blog](https://17tay.pages.dev) (in process) about my projects, CTFs, tools and learning process.
 - Mostly coding in **Python**, but I like to experiment with everything.
 
 ### 📬 Let's connect
