@@ -2,7 +2,7 @@
 <p align="center">
   🧠 Passionate about <strong>offensive cybersecurity</strong>, <strong>pentesting</strong> and <strong>developing</strong>.<br>
   🎓 Self-taught, 17 years old.<br>
-  🚀 Looking for opportunities to grow in the infosec field.
+  🚀 Looking for opportunities to grow in the cybersecurity field.
 </p>
 
 ---
