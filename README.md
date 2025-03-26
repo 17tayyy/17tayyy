@@ -9,17 +9,9 @@
 
 ### 💻 What I do
 - I develop offensive tools as a hobby: **C2s**, **malware**, **pentesting scripts**...
-- I'm active on **Hack The Box** (25+ machines completed).
+- I'm active on **Hack The Box**.
 - I write on my [tech blog](https://17tay.pages.dev) about my projects, CTFs, tools and learning process.
 - Mostly coding in **Python**, but I like to experiment with everything.
-
-### 🧠 About me
-- 🧩 I love understanding how things work internally.
-- 🔎 Always breaking, analyzing and rebuilding.
-- 🤖 Automation and distributed systems are my jam.
-- 💬 Always down to learn from others.
-
----
 
 ### 📬 Let's connect
 - 📧 oscarfdst@proton.me
