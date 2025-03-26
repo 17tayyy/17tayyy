@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hey! I'm tay</h1>
 <p align="center">
-  🧠 Passionate about <strong>offensive cybersecurity</strong>, <strong>pentesting</strong> and <strong>programming</strong>.<br>
+  🧠 Passionate about <strong>offensive cybersecurity</strong>, <strong>pentesting</strong> and <strong>developing</strong>.<br>
   🎓 Self-taught, 17 years old.<br>
   🚀 Looking for opportunities to grow in the infosec field.
 </p>
