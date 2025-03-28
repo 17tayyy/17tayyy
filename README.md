@@ -14,7 +14,6 @@
 - Mostly coding in **Python**, but I like to experiment with everything.
 
 ### 📬 Let's connect
-- 📧 oscarfdst@proton.me
 - 🌐 [17tay.pages.dev](https://17tay.pages.dev)
 - 🐙 [GitHub](https://github.com/17tayyy)
 - 🐚 [Hack The Box](https://app.hackthebox.com/profile/2019721)
