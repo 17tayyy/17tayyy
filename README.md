@@ -15,6 +15,7 @@
 
 ### 📬 Let's connect
 - 🌐 [17tay.pages.dev](https://17tay.pages.dev)
+- oscarfdst@proton.me
 - 🐙 [GitHub](https://github.com/17tayyy)
 - 🐚 [Hack The Box](https://app.hackthebox.com/profile/2019721)
 
