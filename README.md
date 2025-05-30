@@ -2,8 +2,6 @@
 
 ```diff
 + Developer
-+ Red Team
-+ Pentesting
-+ Malware Development
-+ Building Offensive Security tools
++ Red Teamer
++ Pentester
 ```
