@@ -1,10 +1,10 @@
 <h1 align="center">⚡ Oscar Fernández — <i>Tay</i></h1>
-<p align="center">Backend · Ciberseguridad · Automatización</p>
+<p align="center">Backend · Cybersecurity/Pentesting · Development</p>
 
 ---
 
-## 🛠️ Tecnologías
-**Lenguajes:**  
+## 🛠️ Technologies
+**Languages:**  
 `Python` · `Go` · `TypeScript` · `JavaScript` · `Bash`
 
 **Backend & APIs:**  
@@ -13,14 +13,14 @@
 **Frontend:**  
 `React` · `Angular`
 
-**Bases de datos:**  
+**Databases:**  
 `PostgreSQL` · `MongoDB` · `Redis`
 
-**Infraestructura & DevOps:**  
+**Infrastructure & DevOps:**  
 `Docker` · `Nginx` · `Linux`
 
-**Ciberseguridad:**  
-Pentesting · C2 Development · Malware Research · OSINT · Automatización ofensiva
+**Cybersecurity:**  
+Pentesting · C2 Development · Malware Research · OSINT · Offensive Automation
 
 ---
 
