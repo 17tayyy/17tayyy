@@ -11,7 +11,7 @@
 `FastAPI` · `Django` · `Gin (Go)` · `NestJS` · `Express`
 
 **Frontend:**  
-`React` · `Angular`
+`React/NextJS` · `Angular`
 
 **Databases:**  
 `PostgreSQL` · `MongoDB` · `Redis`
