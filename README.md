@@ -22,6 +22,6 @@
 **Cybersecurity:**  
 Pentesting · C2 Development · Malware Research · OSINT · Offensive Automation
 
-**Blockchain and Web3**
+**Blockchain and Web3:**
 `Web3.js` · `Solidity`
 
