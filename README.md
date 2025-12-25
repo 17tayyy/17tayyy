@@ -4,6 +4,7 @@
 ---
 
 ## 🛠️ Technologies
+
 **Languages:**  
 `Python` · `Go` · `TS/JS` · `Bash`
 
@@ -11,7 +12,7 @@
 `FastAPI` · `Django` · `Gin (Go)` · `NestJS` · `Express`
 
 **Frontend:**  
-`React/NextJS` · `Angular`
+`React / Next.js` · `Angular`
 
 **Databases:**  
 `PostgreSQL` · `MongoDB` · `Redis`
@@ -19,9 +20,8 @@
 **Infrastructure & DevOps:**  
 `Docker` · `Nginx` · `Linux`
 
-**Cybersecurity:**  
-Pentesting · C2 Development · Malware Research · OSINT · Offensive Automation
-
-**Blockchain and Web3:**
+**Blockchain & Web3:**  
 `Web3.js` · `Solidity`
 
+**Cybersecurity:**  
+`Pentesting` · `C2 Development` · `Malware Research` · `OSINT` · `Offensive Automation`
