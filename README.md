@@ -6,10 +6,10 @@
 ## 🛠️ Technologies
 
 **Languages:**  
-**`Python`** · `Go` · `TS/JS` · `Bash`
+**`Python`** · `Rust` · `TS/JS` · `Bash`
 
 **Backend & APIs:**  
-**`FastAPI`** · `Django` · `Gin (Go)` · `NestJS` · `Express`
+**`FastAPI`** · `Django` · `NestJS` · `Express`
 
 **Frontend:**  
 **`React / Next.js`** · `Angular`
