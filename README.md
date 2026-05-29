@@ -29,9 +29,8 @@ I also build and contribute to open source whenever I get the chance. Currently 
 
 ## Stack
 
-| | |
-|:---|:---|
 | **Main** | `Python` · `FastAPI` · `MongoDB` · `PostgreSQL` · `Redis` · `Docker` · `AWS` |
+|:---|:---|
 | **Frontend** | `Angular` · `React` · `TypeScript` |
 | **Cybersecurity** | `Pentesting` · `Offensive Automation & Dev` · `Malware Research` · `OSINT` |
 | **Learning** | `Rust` |
