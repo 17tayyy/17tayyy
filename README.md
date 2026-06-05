@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:tuemail@gmail.com">Email</a> ·
+  <a href="mailto:oscarfdst@proton.me">Email</a> ·
   <a href="https://bytay.dev">Blog</a>
 </p>
 
