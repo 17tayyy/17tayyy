@@ -14,7 +14,7 @@
 <p align="center">
   <img src="https://github-readme-stats-one-bice.vercel.app/api?username=17tayyy&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" height="160" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=17tayyy&langs_count=8&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide_border=true&hide=c%23,asp&exclude_repo=TgCloud" height="160" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=17tayyy&langs_count=8&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide_border=true&hide=c%23,asp&exclude_repo=TgCloud,Argus%22%20height=%22160%22" height="160" />
 </p>
 
 ---
