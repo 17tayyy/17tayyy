@@ -33,4 +33,4 @@ I also build and contribute to open source whenever I get the chance. Currently 
 |:---|:---|
 | **Frontend** | `Angular` · `React` · `TypeScript` |
 | **Cybersecurity** | `Pentesting` · `Offensive Automation & Dev` · `Malware Research` · `OSINT` |
-| **Learning** | `Rust` |
+| **Learning** | `Rust` · `Golang`|
