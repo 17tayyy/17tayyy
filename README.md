@@ -29,7 +29,6 @@ mostly in Python. I also build and contribute to open source whenever I get the
 chance.
 
 I write about it at [bytay.dev](https://bytay.dev).
-.
 
 
 ---
