@@ -21,9 +21,15 @@
 
 ## About
 
-Hi! I'm Oscar Fernandez, 18 y/o backend dev and hobbyist security researcher from Mataró, Barcelona.
-I spend most of my time in the Python ecosystem, whether that's building backends or digging into systems I probably shouldn't.
-I also build and contribute to open source whenever I get the chance. Currently learning Rust.
+Hi! I'm Oscar Fernandez, 18 y/o backend dev and hobbyist security researcher
+from Mataró, Barcelona. I spend most of my time in the Python ecosystem. Right
+now that means [Intake](https://www.intake.es), a startup inside
+[Lanzadera](https://lanzadera.es), where I'm co-founder and head of
+engineering: backend, infra, and AI. I also build and contribute to open source
+whenever I get the chance.
+
+I write about it at [bytay.dev](https://bytay.dev).
+
 
 ---
 
