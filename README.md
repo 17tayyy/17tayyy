@@ -21,12 +21,9 @@
 
 ## About
 
-Hi! I'm Oscar Fernandez, 18 y/o backend dev and hobbyist security researcher
-from Mataró, Barcelona. I'm co-founder and head of engineering at
-[Intake](https://www.intake.es), a startup inside
-[Lanzadera](https://lanzadera.es), where I build the backend, infra, and AI,
-mostly in Python. I also build and contribute to open source whenever I get the
-chance.
+Hi! I'm Oscar Fernandez, 18 y/o backend dev and hobbyist security researcher from Mataró, Barcelona.
+I'm co-founder and CTO at [Intake](https://www.intake.es), a startup inside [Lanzadera](https://lanzadera.es), where I lead the backend, infra, and AI, mostly in Python.
+I also build and contribute to open source whenever I get the chance.
 
 I write about it at [bytay.dev](https://bytay.dev).
 
