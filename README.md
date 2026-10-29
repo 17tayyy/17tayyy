@@ -30,10 +30,19 @@ I write about it at [bytay.dev](https://bytay.dev).
 
 ---
 
+## Projects
+
+| **[ArdiQ](https://github.com/17tayyy/ardiq)** | A distributed task queue for Python with a Rust core, backed by Redis Streams. It runs every background job at Intake. · [ardiq.bytay.dev](https://ardiq.bytay.dev) |
+|:---|:---|
+| **[wong](https://github.com/17tayyy/wong)** | An external brain for coding agents: Claude Code's memory on your own server, synced to every machine and checked against the code, commits and issues it cites. · [wong.bytay.dev](https://wong.bytay.dev) |
+
+
+---
+
 ## Stack
 
 | **Main** | `Python` · `FastAPI` · `MongoDB` · `PostgreSQL` · `Redis` · `Docker` · `AWS` |
 |:---|:---|
 | **Frontend** | `Angular` · `React` · `TypeScript` |
 | **Cybersecurity** | `Pentesting` · `Offensive Automation & Dev` · `Malware Research` · `OSINT` |
-| **Learning** | `Rust` · `Golang`|
+| **Systems** | `Rust` · `Tokio` · `PyO3` · `Golang` · `SQLite` |
