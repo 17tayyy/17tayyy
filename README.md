@@ -1,7 +1,7 @@
 <h1 align="center">Oscar Fernández · <i>Tay</i></h1>
 
 <p align="center">
-  Backend Developer · Cybersecurity & Offensive Dev
+  AI & Software Engineer · Cybersecurity & Offensive Dev
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 
 ## About
 
-Hi! I'm Tay, backend dev and hobbyist security researcher from Mataró, Barcelona.
+Hi! I'm Oscar, AI & software engineer and hobbyist security researcher from Mataró, Barcelona.
 I'm co-founder and CTO at [Intake](https://www.intake.es), a startup inside [Lanzadera](https://lanzadera.es), where I lead the backend, infra, and AI, mostly in Python.
 I also build and contribute to open source whenever I get the chance.
 
